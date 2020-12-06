@@ -2,7 +2,7 @@
 # Dashboard React
 
 
-![Dashboard](https://github.com/smitnirmal3597/react-dashboard/blob/master/demo.png?raw=true)
+![Dashboard](https://github.com/smitnirmal3597/react-dashboard/blob/master/demo.PNG?raw=true)
 
 **Quick start**
 
